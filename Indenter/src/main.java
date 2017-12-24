@@ -50,7 +50,7 @@ public class main {
 		fileChooser.setBounds(28, 5, 693, 397);
 		fileChooser.setVisible(false);
 		frame.getContentPane().add(fileChooser);
-		
+		//modifica
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.getContentPane().setLayout(null);
 
